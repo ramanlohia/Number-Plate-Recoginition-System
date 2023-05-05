@@ -8705,7 +8705,7 @@ header.masthead {
       rgba(92, 77, 66, 0.8) 0%,
       rgba(92, 77, 66, 0.8) 100%
     ),
-    url("/back2.jpg");
+    url(/back2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
